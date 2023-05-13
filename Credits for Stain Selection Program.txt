@@ -1,4 +1,4 @@
-This program was using lessons learned from Patrick W. Crawford's LinkedIn Learning class: "OpenCV for Python Developers" 
+This program was created using lessons learned from Patrick W. Crawford's LinkedIn Learning class: "OpenCV for Python Developers" 
 and countless Google searches. 
 
 Thank you Mr. Crawford and all those who share their skills via the Internet. 
